@@ -86,17 +86,17 @@
   }
   
   
-  .head{
+  .headsection{
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
     
   }
   
-  /* .rightside span{
+  .rightside span{
     padding: 11px;
     color: #3d4152;
-  } */
+  }
   
   .card{
     float: left;
@@ -104,9 +104,9 @@
     padding: 60px;
     
   }
-  
-  
   .txt{
     color: rgb(143, 142, 141);
     align-items: center;
   }
+ 
+
